@@ -1,11 +1,16 @@
 _repo: A-note-on-the-position-and-extent-of-the-great-temple-enclosure-of-Tenochtitlan-and-the-posit__68502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68502-h/images/cover.jpg
 creator:
   author:
     agent_name: Maudslay, Alfred P.
     gutenberg_agent_id: '54800'
     url: http://www.gutenberg.org/2009/agents/54800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68502#A-note-on-the-position-and-extent-of-the-great-temple-enclosure-of-Tenochtitlan-and-the-posit_
 gutenberg_issued: '2022-07-11'
 identifiers:
   gutenberg: '68502'
